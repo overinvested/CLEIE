@@ -1,0 +1,24 @@
+['be in deep water', 'between life and death', 'on thin ice', "beyond one's wildest dreams", 'a whole new ball game']
+The overarching theme of these idiomatic expressions is "uncertainty" or "being in a precarious situation."
+
+['bend the law', 'safety in numbers', "keep one's head above water", "bite one's lip", 'keep at bay']
+The overarching theme of these idiomatic expressions is coping or dealing with difficult situations or challenges.
+
+['beats me', 'god forbid', 'live and learn', 'go through the roof', 'wag the dog']
+The overarching theme of these idiomatic expressions is uncertainty or unexpected outcomes.
+
+['drive someone up the wall', 'fan the flames', 'add fuel to the fire', 'add insult to injury', 'be in hot water']
+The overarching theme of these idiomatic expressions is "aggravation" or "making a situation worse."
+
+["keep one's head above water", 'keep up the good work', 'round the clock', "stick to one's guns", 'magic touch']
+The overarching theme of these idiomatic expressions is perseverance and determination.
+
+['an arm and a leg', 'made of money', 'white elephant', 'nest egg', 'flotsam and jetsam']
+The overarching theme of these idiomatic expressions is related to wealth, value, and possessions.
+
+['round the clock', 'ray of sunshine', 'love to death', 'party animal', 'brought forward']
+The overarching theme of these idiomatic expressions is time and intensity.
+
+['now or never', 'round the clock', 'all set', 'brass tacks', 'pressed for time']
+The overarching theme of these idiomatic expressions is urgency or immediacy.
+
